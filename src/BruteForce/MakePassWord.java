@@ -52,7 +52,6 @@ public class MakePassWord {
             visited[i] = false;
         }
     }
-
     public static boolean validCheck(String word){
         int vowel = 0;
         int cos = 0;
