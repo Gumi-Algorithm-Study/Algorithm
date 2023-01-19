@@ -51,7 +51,6 @@ public class MakePassWord {
             DFS(i+1,depth+1);
             visited[i] = false;
         }
-
     }
 
     public static boolean validCheck(String word){
