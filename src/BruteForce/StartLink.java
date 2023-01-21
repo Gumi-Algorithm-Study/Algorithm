@@ -1,5 +1,5 @@
 package BruteForce;
-
+//체크중
 import java.util.*;
 import java.io.*;
 
