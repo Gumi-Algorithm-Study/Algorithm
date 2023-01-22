@@ -55,7 +55,6 @@ public class MakePassWord {
     public static boolean validCheck(String word){
         int vowel = 0;
         int cos = 0;
-
         for(int i = 0; i < word.length();i++){
             if (isVowel(word.charAt(i))){
                 vowel++;
