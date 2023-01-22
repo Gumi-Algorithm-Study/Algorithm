@@ -13,7 +13,7 @@ public class RepresentativeNum {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int N = Integer.parseInt(br.readLine());
-        StringTokenizer s = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
         List<Integer> numList = new ArrayList<>();
         for (int i = 0; i < N; i++) {
