@@ -15,7 +15,7 @@ public class LabVirus {
 
         public Point(int x, int y) {
             this.x = x;
-            this.y = y;
+            this.y = ;
         }
     }
 
